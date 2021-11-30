@@ -1,4 +1,4 @@
-# profuss_api
+# E Commerce API
 
 ## Home will return all product with category
 
